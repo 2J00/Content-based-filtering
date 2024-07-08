@@ -101,3 +101,5 @@ def find_movie(movie_df, idx, movie_title, top_n = 10):
 movies = find_movie(mv, ind, 'The Godfather', 5)
 movies[['title', 'vote_average']]
 ```
+
+![movie_filtering](https://github.com/2J00/Filtering_/blob/main/Content_based_filtering/content_based_movie_filtering.png)
